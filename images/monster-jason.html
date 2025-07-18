@@ -166,41 +166,18 @@
       }
     </style>
   </head>
+
   <body>
     <div class="container">
-      <h1>Responsive Image Display</h1>
-
-      <div class="controls">
-        <button class="btn active" onclick="setSize('full')">Full Width</button>
-        <button class="btn" onclick="setSize('large')">Large</button>
-        <button class="btn" onclick="setSize('medium')">Medium</button>
-        <button class="btn" onclick="setSize('small')">Small</button>
-      </div>
-
+      <h1>Director Jason de Vou</h1>
       <div class="image-container size-full" id="imageContainer">
-        <!-- Replace 'sample-image.jpg' with your actual image filename -->
         <img
           src="https://steveculshaw.github.io/motw/monster-Director-Jason-De-Vou.png"
-          alt="Responsive Sample Image"
+          alt="Director Jason de Vou"
           class="responsive-image"
           onerror="showPlaceholder(this)"
           onload="hideError()"
         />
-      </div>
-
-      <div class="info">
-        <h3>How it works:</h3>
-        <p>
-          This page demonstrates automatic image resizing based on browser window size. The image is loaded from the
-          <strong>images/</strong> subfolder and will:
-        </p>
-        <ul style="text-align: left; margin-top: 10px">
-          <li>Automatically scale to fit the browser window</li>
-          <li>Maintain aspect ratio to prevent distortion</li>
-          <li>Adapt to different screen sizes (mobile, tablet, desktop)</li>
-          <li>Provide size controls for different viewing preferences</li>
-        </ul>
-        <p style="margin-top: 15px"><strong>Note:</strong> Replace "sample-image.jpg" in the images folder with your actual image file.</p>
       </div>
     </div>
 
