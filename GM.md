@@ -1,9 +1,10 @@
 # GM Links
 
-* root  ... <a target="_blank" href="https://steveculshaw.github.io/motw/monster-Director-Jason-De-Vou.png">monster-Director-Jason-De-Vou.png</a>
-* folder  ... <a target="_blank" href="https://steveculshaw.github.io/motw/images/monster-Director-Jason-De-Vou.png">monster-Director-Jason-De-Vou.png</a>
+* PNG  ... <a target="_blank" href="https://steveculshaw.github.io/motw/monster-Director-Jason-De-Vou.png">PNG</a>
   
-* HTML ... <a target="_blank" href="https://steveculshaw.github.io/motw/responsive_image_page.html">HTML</a>
+* Responsive HTML ... <a target="_blank" href="https://steveculshaw.github.io/motw/responsive_image_page.html">Responsive HTML</a>
+
+* Minimal HTML ... <a target="_blank" href=""></a>
 
 ## Template
 
