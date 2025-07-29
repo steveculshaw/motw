@@ -8,4 +8,4 @@
 ## Blood Tide Rising
 
 * <a target="_blank" href="https://steveculshaw.github.io/motw/images/motw-npc-sirius-collins-b&w.html">Sirius Collins</a>
-<a target="_blank" href="">reporter</a>
+* <a target="_blank" href="">reporter</a>
