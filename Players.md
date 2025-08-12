@@ -11,7 +11,7 @@
 ## General
 
 * <a target="_blank" href="https://steveculshaw.github.io/motw/Players">Player page</a>
-* <a target="_blank" href="https://drive.google.com/drive/folders/1NTVagRXoWiSuQM-pejbHz0ReHImno9_-"> Google drive link ... </a>
+* <a target="_blank" href="https://drive.google.com/drive/folders/1NTVagRXoWiSuQM-pejbHz0ReHImno9_-">Google drive link ... </a>
 
 ## Majestic-12 (MJ12)
 
