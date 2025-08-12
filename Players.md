@@ -6,7 +6,6 @@
 * <a target="_blank" href="https://steveculshaw.github.io/motw/Marion%20Pudeator%20-%20The%20Spooky.pdf">Marion - The Spooky ... </a>
 * <a target="_blank" href="https://steveculshaw.github.io/motw/Tom%20Drigger%20-%20The%20Spell-Slinger.pdf">Tom - The Spellslinger ... </a>
 * <a target="_blank" href="https://steveculshaw.github.io/motw/Vera%20-%20The%20Monstrous.pdf">Vera - The Monstrous ... </a>
-
 * <a target="_blank" href="https://steveculshaw.github.io/motw/Team%20Playbook%20-%20Always%20On%20The%20Run.pdf">Team - Always On The Run ... </a>
 
 ## General
