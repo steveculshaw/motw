@@ -23,3 +23,6 @@
 
 * <a target="_blank" href="https://steveculshaw.github.io/motw/images/motw-npc-sirius-collins-b&w.html">Sirius Collins</a>
 * <a target="_blank" href="https://steveculshaw.github.io/motw/images/motw-npc-connie-chung-b&w.html">Connie Chung</a>
+* <a target="_blank" href="">Barghest</a>
+
+
