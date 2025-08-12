@@ -24,5 +24,5 @@
 * <a target="_blank" href="https://steveculshaw.github.io/motw/images/motw-npc-sirius-collins-b&w.html">Sirius Collins</a>
 * <a target="_blank" href="https://steveculshaw.github.io/motw/images/motw-npc-connie-chung-b&w.html">Connie Chung</a>
 * <a target="_blank" href="https://steveculshaw.github.io/motw/images/monster-barghest.html">Barghest</a>
-* <a target="_blank" href="https://steveculshaw.github.io/motw/images/motw-npc-magistra-vellorin-b&w.html">Magistra Vellorin</a>
+* <a target="_blank" href="https://steveculshaw.github.io/motw/images/motw-npc-magistra-vellorin.html">Magistra Vellorin</a>
 
