@@ -1,11 +1,13 @@
 # Players Links
 
-## The Keepers and Team playbooks
+## The Hunters playbooks
 
 * <a target="_blank" href="https://steveculshaw.github.io/motw/Aaron%20Wraith%20White%20-%20The%20Professional.pdf">Aaron - The Professional ...</a>
 * <a target="_blank" href="https://steveculshaw.github.io/motw/Marion%20Pudeator%20-%20The%20Spooky.pdf">Marion - The Spooky ... </a>
 * <a target="_blank" href="https://steveculshaw.github.io/motw/Tom%20Drigger%20-%20The%20Spell-Slinger.pdf">Tom - The Spellslinger ... </a>
 * <a target="_blank" href="https://steveculshaw.github.io/motw/Vera%20-%20The%20Monstrous.pdf">Vera - The Monstrous ... </a>
+
+## The Team playbook
 
 * <a target="_blank" href="https://steveculshaw.github.io/motw/Team%20Playbook%20-%20Always%20On%20The%20Run.pdf">Team - Always On The Run ... </a>
 
@@ -23,3 +25,4 @@
 
 * <a target="_blank" href="https://steveculshaw.github.io/motw/images/motw-npc-sirius-collins-b&w.html">Sirius Collins</a>
 * <a target="_blank" href="https://steveculshaw.github.io/motw/images/motw-npc-connie-chung-b&w.html">Connie Chung</a>
+* <a target="_blank" href="https://steveculshaw.github.io/motw/images/motw-npc-magistra-vellorin.html">Magistra Vellorin</a>
