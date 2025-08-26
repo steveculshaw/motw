@@ -1,4 +1,4 @@
-# GM Links
+# Links
 
 ## The Hunters playbooks
 

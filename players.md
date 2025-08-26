@@ -1,4 +1,4 @@
-# Players Links
+# Links
 
 ## The Hunters playbooks
 
@@ -13,7 +13,6 @@
 
 ## General
 
-* <a target="_blank" href="https://steveculshaw.github.io/motw/Players">Player page</a>
 * <a target="_blank" href="https://drive.google.com/drive/folders/1NTVagRXoWiSuQM-pejbHz0ReHImno9_-">Google drive link ... </a>
 
 ## Majestic-12 (MJ12)
@@ -26,3 +25,6 @@
 * <a target="_blank" href="https://steveculshaw.github.io/motw/images/motw-npc-sirius-collins-b&w.html">Sirius Collins</a>
 * <a target="_blank" href="https://steveculshaw.github.io/motw/images/motw-npc-connie-chung-b&w.html">Connie Chung</a>
 * <a target="_blank" href="https://steveculshaw.github.io/motw/images/motw-npc-magistra-vellorin.html">Magistra Vellorin</a>
+* <a target="_blank" href="https://steveculshaw.github.io/motw/images/motw-map-Lake-Calument-docks-overview.html">Lake Calument docks overview</a>
+* <a target="_blank" href="https://steveculshaw.github.io/motw/images/motw-map-Lake-Calument-dock-one.html">Lake Calument dock one</a>
+
