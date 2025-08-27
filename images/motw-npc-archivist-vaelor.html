@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<!-- Connie Chung -->
+<!-- motw-npc-connie-chung-b&w.jpg  -->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Connie Chung</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Arial", sans-serif;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+      }
+
+      .container {
+        max-width: 1200px;
+        width: 100%;
+        background: rgba(255, 255, 240, 0.95);
+        border-radius: 20px;
+        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+        padding: 40px;
+        text-align: center;
+      }
+
+      h1 {
+        color: #333;
+        margin-bottom: 30px;
+        font-size: 1.5em;
+        font-weight: 300;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+      }
+
+      .image-container {
+        position: relative;
+        width: 100%;
+        margin: 20px 0;
+        overflow: hidden;
+        border-radius: 15px;
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+        transition: transform 0.3s ease;
+      }
+
+      .image-container:hover {
+        transform: scale(1.02);
+      }
+
+      .responsive-image {
+        width: 100%;
+        height: auto;
+        display: block;
+        transition: all 0.3s ease;
+      }
+
+      /* Only one sizing option */
+      .size-full .responsive-image {
+        max-width: 100%;
+        max-height: 80vh;
+        object-fit: contain;
+      }
+
+      /* Responsive breakpoints */
+      @media (max-width: 768px) {
+        .container {
+          padding: 20px;
+        }
+
+        h1 {
+          font-size: 2em;
+        }
+
+        .responsive-image {
+          max-height: 50vh;
+        }
+      }
+
+      @media (max-width: 480px) {
+        .container {
+          padding: 15px;
+        }
+
+        h1 {
+          font-size: 1.5em;
+        }
+
+        .responsive-image {
+          max-height: 40vh;
+        }
+      }
+
+      .controls {
+        margin: 30px 0;
+      }
+
+      .info {
+        margin-top: 30px;
+        padding: 20px;
+        background: rgba(102, 126, 234, 0.1);
+        border-radius: 10px;
+        color: #555;
+        line-height: 1.6;
+      }
+
+      .placeholder {
+        background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+        border: 2px dashed #ccc;
+        border-radius: 15px;
+        padding: 60px 20px;
+        color: #666;
+        font-size: 1.2em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 300px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <h1>Connie Chung</h1>
+      <div class="image-container size-full" id="imageContainer">
+        <img
+          src="https://steveculshaw.github.io/motw/images/motw-npc-connie-chung-b&w.jpg"
+          alt="Connie Chung"
+          class="responsive-image"
+          onerror="showPlaceholder(this)"
+          onload="hideError()"
+        />
+      </div>
+    </div>
+
+    <script>
+      function showPlaceholder(img) {
+        const container = img.parentElement;
+        container.innerHTML = `
+                <div class="placeholder">
+                    <div>
+                        <h3>Image not found</h3>
+                        <p>Please add your image file to the <strong>images/</strong> folder</p>
+                        <p>Expected path: <code>images/motw-npc-connie-chung-b&w.jpg</code></p>
+                    </div>
+                </div>
+            `;
+      }
+
+      function hideError() {
+        // Image loaded successfully
+        console.log("Image loaded successfully");
+      }
+
+      // Add window resize listener for additional responsiveness
+      window.addEventListener("resize", function () {
+        // Force image to recalculate its size
+        const img = document.querySelector(".responsive-image");
+        if (img) {
+          img.style.maxHeight = Math.min(window.innerHeight * 0.8, 600) + "px";
+        }
+      });
+
+      // Initial setup
+      window.addEventListener("load", function () {
+        const img = document.querySelector(".responsive-image");
+        if (img) {
+          img.style.maxHeight = Math.min(window.innerHeight * 0.8, 600) + "px";
+        }
+      });
+    </script>
+  </body>
+</html>
